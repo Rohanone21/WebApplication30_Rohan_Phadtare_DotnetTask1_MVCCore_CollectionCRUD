@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication30_Rohan_Phadtare_DotnetTask1_MVCCore_CollectionCRUD", "WebApplication30_MVC_Core_CRUD\WebApplication30_Rohan_Phadtare_DotnetTask1_MVCCore_CollectionCRUD.csproj", "{A754F569-1BC9-48EF-B6A1-DA32D6699EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A754F569-1BC9-48EF-B6A1-DA32D6699EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A754F569-1BC9-48EF-B6A1-DA32D6699EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A754F569-1BC9-48EF-B6A1-DA32D6699EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A754F569-1BC9-48EF-B6A1-DA32D6699EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {536F3396-843E-4ED4-8D69-429910E7C093}
+	EndGlobalSection
+EndGlobal
